@@ -10,6 +10,10 @@ lab:
 
 In this lab, you will create a publisher and a solution.
 
+Reference Video - How to Create publisher and solution
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/88Daw0sLd2w?si=7usiMv8Pk2oz5dC1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
 ## Exercise 1 - Create publisher and solution
 
 In this exercise, you will access the Power Apps maker portal, the Developer environment and create a new solution.
